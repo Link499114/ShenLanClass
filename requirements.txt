@@ -1,0 +1,5 @@
+# ROS 2 Humble launch 脚本依赖（simulation.launch.py 等）
+# 若已通过 apt 安装 ros-humble-desktop，通常无需再 pip 安装
+ament_index_python==1.4.1
+launch==0.19.13
+launch_ros==0.19.13
