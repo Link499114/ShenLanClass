@@ -1,0 +1,33 @@
+Starting >>> mpc_car
+Consolidate compiler generated dependencies of target mpc_car
+Consolidate compiler generated dependencies of target mpc_car_component
+[ 50%] Built target mpc_car
+[100%] Built target mpc_car_component
+-- Install configuration: ""
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/lib/mpc_car/mpc_car
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/bin/mpc_car
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/lib/libmpc_car_component.so
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/launch
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/launch/simulation2.launch.py
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/launch/simulation.launch.py
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/config
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/config/mpc_car.yaml
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/ament_index/resource_index/package_run_dependencies/mpc_car
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/ament_index/resource_index/parent_prefix_path/mpc_car
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/environment/ament_prefix_path.sh
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/environment/path.sh
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/environment/path.dsv
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/local_setup.bash
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/local_setup.sh
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/local_setup.zsh
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/local_setup.dsv
+-- Installing: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/package.dsv
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/ament_index/resource_index/packages/mpc_car
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/ament_index/resource_index/rclcpp_components/mpc_car
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/cmake/mpc_carConfig.cmake
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/cmake/mpc_carConfig-version.cmake
+-- Up-to-date: /home/link/shenlan_class/Unity6/hw_6/install/mpc_car/share/mpc_car/package.xml
+Finished <<< mpc_car [0.18s]
+
+Summary: 1 package finished [0.86s]
