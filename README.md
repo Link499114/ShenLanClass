@@ -84,8 +84,8 @@ ros2 launch mpc_car simulation.launch.py
 启动成功后，终端应依次出现：
 
 ```
-Loaded node '/car_simulator' in container 'container'
-Loaded node '/mpc_car' in container 'container'
+[car_simulator-1]: process started with pid [...]
+[mpc_car-2]: process started with pid [...]
 solve qp costs: ...ms
 u: ... ...
 ```
@@ -134,9 +134,9 @@ export FASTDDS_BUILTIN_TRANSPORTS=UDPv4
 ros2 launch mpc_car simulation.launch.py
 ```
 
-### 3. 节点加载需等待
+### 3. 节点启动需等待
 
-`car_simulator` 与 `mpc_car` 以组合节点方式加载，首次启动可能需要数秒。请等待终端出现 `Loaded node` 后再观察 RViz，不要过早 Ctrl+C 中断。
+`car_simulator` 与 `mpc_car` 启动后，请等待终端出现 `solve qp costs` 和 `u: ...` 输出后再观察 RViz，不要过早 Ctrl+C 中断。
 
 ### 4. 小车不动的排查
 
